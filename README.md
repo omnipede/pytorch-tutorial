@@ -13,6 +13,6 @@ Pytorch 튜토리얼 repository
   
 * [로지스틱 회귀](./_3_logistic_regression/_0_note.md)
 
-* 소프트맥스 회귀
+* [소프트맥스 회귀](./_4_softmax_regression/_0_note.md)
 
 * 
