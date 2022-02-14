@@ -11,6 +11,8 @@ Pytorch 튜토리얼 repository
 
 * [데이터처리](./_2_data_proc/_0_note.md)
   
-* 로지스틱 회귀
+* [로지스틱 회귀](./_3_logistic_regression/_0_note.md)
 
-* TODO
+* 소프트맥스 회귀
+
+* 
