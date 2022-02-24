@@ -7,6 +7,8 @@ Pytorch 튜토리얼 repository
 
 ## 목차
 
+* [용어 정리](./_0_terms/_)
+  
 * [선형회귀](./_1_linear_regression/_0_note.md)
 
 * [데이터처리](./_2_data_proc/_0_note.md)
@@ -15,4 +17,6 @@ Pytorch 튜토리얼 repository
 
 * [소프트맥스 회귀](./_4_softmax_regression/_0_note.md)
 
-* 
+* [인공 신경망](./_5_artificial_neural_network/_0_note.md)
+
+* [합성곱 신경망](./_6_convolutional_neural_network/_0_note.md)
