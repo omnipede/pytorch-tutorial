@@ -20,3 +20,7 @@ Pytorch 튜토리얼 repository
 * [인공 신경망](./_5_artificial_neural_network/_0_note.md)
 
 * [합성곱 신경망](./_6_convolutional_neural_network/_0_note.md)
+
+* [자연어 전처리](./_7_natual_language_preproc/_0_note.md)
+
+* [단어 표현 방법](./_8_word_representation/_0_note.md)
